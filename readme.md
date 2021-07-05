@@ -10,3 +10,4 @@ Step to run application:
 6.  Run application by command; python app.py
 7.  You will get url copy it and paste in browser.
 8.  You have sample_data folder where you can get images to test.
+9.  You can download the Pre trained model [here](https://drive.google.com/drive/folders/1yMZq_HkgNmAqugs6u8EKZiqKeAnF2mef?usp=sharing)
