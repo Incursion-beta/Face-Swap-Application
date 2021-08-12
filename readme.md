@@ -2,7 +2,7 @@ Step to run application:
 
 
 
-1.	Create the copy of the project.
+1.  Create the copy of the project.
 2.  Open command prompt and change your current path to folder where you can find 'app.py' file.
 3.  Create environment by command given below- conda create -name <environment name>
 4.  Activate environment by command as follows- conda activate <environment name>
